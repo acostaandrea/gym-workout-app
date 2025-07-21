@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import workoutData from './data/workout_routine.json';
 import type { WorkoutRoutine } from './types/workout';
 import './App.css';
