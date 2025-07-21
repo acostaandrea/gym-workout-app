@@ -9,6 +9,7 @@ export interface Exercise {
   semana_2: WeekData;
   semana_3: WeekData;
   semana_4: WeekData;
+  completed?: boolean;
 }
 
 export interface DayRoutine {
