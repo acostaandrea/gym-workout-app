@@ -1,0 +1,191 @@
+{
+  "rutina_ejercicios": {
+    "dia_1": {
+      "ejercicios": [
+        {
+          "nombre": "Press de Banco c/ barra",
+          "semana_1": { "series": "3x10", "carga": 16 },
+          "semana_2": { "series": "2x10,2x8", "carga": "20/25" },
+          "semana_3": { "series": "2x8, 2x6", "carga": "25/30" },
+          "semana_4": { "series": "3x12", "carga": 20 }
+        },
+        {
+          "nombre": "Remo unil. c/ manc. (serrucho)",
+          "semana_1": { "series": "3x10 c/l", "carga": 6 },
+          "semana_2": { "series": "3x10", "carga": 7 },
+          "semana_3": { "series": "3x8 c/l", "carga": 10 },
+          "semana_4": { "series": "3x12 c/l", "carga": 8 }
+        },
+        {
+          "nombre": "Vuelo frontal c/ manc.",
+          "semana_1": { "series": "3x10", "carga": 4 },
+          "semana_2": { "series": "3x10", "carga": 5 },
+          "semana_3": { "series": "3x8", "carga": 7 },
+          "semana_4": { "series": "3x10", "carga": 6 }
+        },
+        {
+          "nombre": "Vuelo lateral c/ manc.",
+          "semana_1": { "series": "3x10", "carga": 4 },
+          "semana_2": { "series": "3x10", "carga": 5 },
+          "semana_3": { "series": "3x8", "carga": 7 },
+          "semana_4": { "series": "3x10", "carga": 6 }
+        },
+        {
+          "nombre": "Camilla de Cuadriceps",
+          "semana_1": { "series": "3x12", "carga": 25 },
+          "semana_2": { "series": "3x10", "carga": 30 },
+          "semana_3": { "series": "3x8", "carga": 40 },
+          "semana_4": { "series": "3x12", "carga": 30 }
+        },
+        {
+          "nombre": "Sentadilla isométrica",
+          "semana_1": { "series": "3x20\"", "carga": null },
+          "semana_2": { "series": "3x30\"", "carga": null },
+          "semana_3": { "series": "3x40\"", "carga": null },
+          "semana_4": { "series": "3x15\"", "carga": null }
+        },
+        {
+          "nombre": "Triceps c/ soga en polea alta",
+          "semana_1": { "series": "3x12", "carga": 15 },
+          "semana_2": { "series": "3x12", "carga": 25 },
+          "semana_3": { "series": "3x10", "carga": 30 },
+          "semana_4": { "series": "3x12", "carga": 15 }
+        },
+        {
+          "nombre": "Patada de gluteo hacia atrás en cuadripedia c/ banda",
+          "semana_1": { "series": "3x15 c/l", "carga": 20 },
+          "semana_2": { "series": "3x15 c/l", "carga": 25 },
+          "semana_3": { "series": "3x12 c/l", "carga": 20 },
+          "semana_4": { "series": "3x15 c/l", "carga": 15 }
+        },
+        {
+          "nombre": "Abduccion en cuadripedia c/ banda",
+          "semana_1": { "series": "3x15 c/l", "carga": 40 },
+          "semana_2": { "series": "3x15 c/l", "carga": 40 },
+          "semana_3": { "series": "3x12", "carga": 44 },
+          "semana_4": { "series": "3x15 c/l", "carga": 40 }
+        },
+        {
+          "nombre": "Gemelos en sillon o plataforma",
+          "semana_1": { "series": "3x20", "carga": 40 },
+          "semana_2": { "series": "3x20", "carga": "45/50" },
+          "semana_3": { "series": "3x20", "carga": 50 },
+          "semana_4": { "series": "3x20", "carga": 40 }
+        }
+      ],
+      "finalizador": [
+        {
+          "nombre": "Twist c/ disco",
+          "semana_1": { "series": "3x30", "carga": null },
+          "semana_2": { "series": "3x30", "carga": null },
+          "semana_3": { "series": "3x20", "carga": null },
+          "semana_4": { "series": "3x20", "carga": null }
+        },
+        {
+          "nombre": "V-ups alternado",
+          "semana_1": { "series": "3x20", "carga": null },
+          "semana_2": { "series": "3x20", "carga": null },
+          "semana_3": { "series": "3x20", "carga": null },
+          "semana_4": { "series": "3x20", "carga": null }
+        }
+      ]
+    },
+    "dia_2": {
+      "ejercicios": [
+        {
+          "nombre": "Sentadilla c/ barra",
+          "semana_1": { "series": "3x10", "carga": 30 },
+          "semana_2": { "series": "2x10,2x8", "carga": 40 },
+          "semana_3": { "series": "10/8/8/6", "carga": "40/45/50" },
+          "semana_4": { "series": "3x10", "carga": null }
+        },
+        {
+          "nombre": "Posteriores en mariposa o c/ manc.",
+          "semana_1": { "series": "3x10", "carga": 15 },
+          "semana_2": { "series": "3x10", "carga": 20 },
+          "semana_3": { "series": "3x8", "carga": 25 },
+          "semana_4": { "series": "3x12", "carga": 20}
+        },
+        {
+          "nombre": "Biceps alternado c/ manc",
+          "semana_1": { "series": "3x10", "carga": 3 },
+          "semana_2": { "series": "3x10", "carga": 5 },
+          "semana_3": { "series": "3x8", "carga": 6 },
+          "semana_4": { "series": "3x12", "carga": 5 }
+        },
+        {
+          "nombre": "Hip Thrust",
+          "semana_1": { "series": "3x12", "carga": 30 },
+          "semana_2": { "series": "2x12,2x10", "carga": "40/45" },
+          "semana_3": { "series": "12/10/8/6", "carga": "50/60" },
+          "semana_4": { "series": "3x12", "carga": 45 }
+        },
+        {
+          "nombre": "Camilla de isquios",
+          "semana_1": { "series": "3x12", "carga": 15 },
+          "semana_2": { "series": "3x10", "carga": 45 },
+          "semana_3": { "series": "3x8", "carga": 50 },
+          "semana_4": { "series": "3x12", "carga": 40 }
+        },
+        {
+          "nombre": "Peso muerto c/ manc.",
+          "semana_1": { "series": "3x12", "carga": 30 },
+          "semana_2": { "series": "3x10", "carga": 35 },
+          "semana_3": { "series": "3x8", "carga": 40 },
+          "semana_4": { "series": "3x12", "carga": 35 }
+        },
+        {
+          "nombre": "Remo en maq. Toma abierta",
+          "semana_1": { "series": "3x12", "carga": 15 },
+          "semana_2": { "series": "3x10", "carga": 20 },
+          "semana_3": { "series": "3x8", "carga": 25 },
+          "semana_4": { "series": "3x12", "carga": 20 }
+        },
+        {
+          "nombre": "Triceps tras nuca c/ manc.",
+          "semana_1": { "series": "3x10", "carga": 15 },
+          "semana_2": { "series": "3x10", "carga": 20 },
+          "semana_3": { "series": "3x8", "carga": 25 },
+          "semana_4": { "series": "3x12", "carga": 20 }
+        },
+        {
+          "nombre": "Mariposa",
+          "semana_1": { "series": "3x12", "carga": 15 },
+          "semana_2": { "series": "3x10", "carga": 20 },
+          "semana_3": { "series": "3x10", "carga": 25 },
+          "semana_4": { "series": "3x12", "carga": 20 }
+        },
+        {
+          "nombre": "Aductores en maq.",
+          "semana_1": { "series": "3x15", "carga": 40 },
+          "semana_2": { "series": "3x12", "carga": 45 },
+          "semana_3": { "series": "3x10", "carga": 50 },
+          "semana_4": { "series": "3x12", "carga": 40 }
+        }
+      ],
+      "finalizador": [
+        {
+          "nombre": "Salto al cajón/soga",
+          "semana_1": { "series": "3x8/50", "carga": null },
+          "semana_2": { "series": "3x10/80", "carga": null },
+          "semana_3": { "series": "3x10/100", "carga": null },
+          "semana_4": { "series": "3x8/100", "carga": null }
+        },
+        {
+          "nombre": "Plancha Frontal",
+          "semana_1": { "series": "3x20\"", "carga": null },
+          "semana_2": { "series": "3x30\"", "carga": null },
+          "semana_3": { "series": "3x40\"", "carga": null },
+          "semana_4": { "series": "3x30\"", "carga": null }
+        },
+        {
+          "nombre": "Escaladores",
+          "semana_1": { "series": "3x20", "carga": null },
+          "semana_2": { "series": "3x30", "carga": null },
+          "semana_3": { "series": "3x40", "carga": null },
+          "semana_4": { "series": "3x30", "carga": null }
+        }
+      ]
+    }
+  }
+} 
