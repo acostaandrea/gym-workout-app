@@ -4,15 +4,15 @@
       "ejercicios": [
         {
           "nombre": "Press de Banco c/ barra",
-          "semana_1": { "series": "3x10", "carga": 16 },
-          "semana_2": { "series": "2x10,2x8", "carga": "20/25" },
-          "semana_3": { "series": "2x8, 2x6", "carga": "25/30" },
-          "semana_4": { "series": "3x12", "carga": 20 }
+          "semana_1": { "series": "3x10", "carga": 20 },
+          "semana_2": { "series": "2x10,2x8", "carga": "25/30" },
+          "semana_3": { "series": "2x8, 2x6", "carga": "30/35" },
+          "semana_4": { "series": "3x12", "carga": 25 }
         },
         {
           "nombre": "Remo unil. c/ manc. (serrucho)",
-          "semana_1": { "series": "3x10 c/l", "carga": 6 },
-          "semana_2": { "series": "3x10", "carga": 7 },
+          "semana_1": { "series": "3x10 c/l", "carga": 7 },
+          "semana_2": { "series": "3x10", "carga": 8 },
           "semana_3": { "series": "3x8 c/l", "carga": 10 },
           "semana_4": { "series": "3x12 c/l", "carga": 8 }
         },
