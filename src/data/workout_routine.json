@@ -108,7 +108,7 @@
         },
         {
           "nombre": "Biceps alternado c/ manc",
-          "semana_1": { "series": "3x10", "carga": 3 },
+          "semana_1": { "series": "3x10", "carga": 4 },
           "semana_2": { "series": "3x10", "carga": 5 },
           "semana_3": { "series": "3x8", "carga": 6 },
           "semana_4": { "series": "3x12", "carga": 5 }
