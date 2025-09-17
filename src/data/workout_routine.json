@@ -55,14 +55,14 @@
           "nombre": "Patada de gluteo hacia atrás en cuadripedia c/ banda",
           "semana_1": { "series": "3x15 c/l", "carga": 20 },
           "semana_2": { "series": "3x15 c/l", "carga": 25 },
-          "semana_3": { "series": "3x12 c/l", "carga": 20 },
+          "semana_3": { "series": "3x12 c/l", "carga": 30 },
           "semana_4": { "series": "3x15 c/l", "carga": 15 }
         },
         {
           "nombre": "Abduccion en cuadripedia c/ banda",
           "semana_1": { "series": "3x15 c/l", "carga": 40 },
-          "semana_2": { "series": "3x15 c/l", "carga": 40 },
-          "semana_3": { "series": "3x12", "carga": 44 },
+          "semana_2": { "series": "3x15 c/l", "carga": 44 },
+          "semana_3": { "series": "3x12", "carga": 52 },
           "semana_4": { "series": "3x15 c/l", "carga": 40 }
         },
         {
